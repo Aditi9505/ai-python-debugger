@@ -55,7 +55,7 @@ The AI acts like a **mentor**, offering hints, probing questions, and debugging 
 
 ## 📌 Author
 
-Made with ❤️ by **Aditi Shrivastava**  
+By **Aditi Shrivastava**  
 [LinkedIn](https://www.linkedin.com/in/aditi-shrivastava-1295) | [Email](mailto:aditishrivastava2022@vitbhopal.ac.in)
 
 
