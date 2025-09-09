@@ -33,3 +33,13 @@ Guidelines:
 ```python
 def add_numbers(a, b):
     return a + b + c
+
+**Expected AI Response**
+
+-Identify that c is undefined and explain why.
+
+-Suggest checking function parameters.
+
+-Ask reflective questions about variables in scope.
+
+-Maintain an encouraging tone: "You’re very close! Think about which variables are actually available here."
