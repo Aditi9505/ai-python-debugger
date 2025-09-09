@@ -40,3 +40,28 @@ The AI is instructed to:
 ```python
 def add_numbers(a, b):
     return a + b + c
+Expected AI Response:
+
+Recognizes c is undefined and explains why it causes an error.
+
+Suggests checking function parameters and variable accessibility.
+
+Asks guiding questions like:
+
+"What do you expect this variable to hold here?"
+
+"Have you checked all inputs before returning?"
+
+Maintains a positive tone: “You’re very close! Think about which variables are accessible in this function.”
+
+🎯 Reasoning Behind Design
+
+Mentor-style AI → Encourages self-learning and reduces dependency.
+
+Hints and questions → Teach debugging patterns rather than just the fix.
+
+Explicit rules → Prevent giving away exact solutions.
+
+Tone and style → Friendly, patient, and reflective for better engagement.
+
+Adaptability → Works for beginners (step-by-step hints) and advanced learners (conceptual guidance and edge-case probing).
