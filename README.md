@@ -1,5 +1,3 @@
-# ai-python-debugger
-AI Debugging Assistant for Python: learn, debug, and think like a programmer!
 # 🐍 AI Python Debugging Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
