@@ -40,7 +40,9 @@ The AI is instructed to:
 ```python
 def add_numbers(a, b):
     return a + b + c
-Expected AI Response:
+---
+
+## Expected AI Response:##
 
 Recognizes c is undefined and explains why it causes an error.
 
